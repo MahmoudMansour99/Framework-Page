@@ -24,7 +24,7 @@ const route = createBrowserRouter([
 export default function App() {
   return (
     <>
-      <RouterProvider router={route} />
+      <RouterProvider router={route} basename="/Framework-Page" />
     </>
   );
 }
