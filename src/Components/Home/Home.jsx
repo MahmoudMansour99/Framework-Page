@@ -1,4 +1,5 @@
 import React from "react";
+
 import Avatar from "../../assets/avataaars.svg";
 import LightStarLine from "../LightStarLine/LightStarLine";
 

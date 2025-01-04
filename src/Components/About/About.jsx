@@ -1,4 +1,5 @@
 import React from "react";
+
 import LightStarLine from "../LightStarLine/LightStarLine";
 
 export default function About() {

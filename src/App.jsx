@@ -9,7 +9,7 @@ import Error from "./Components/Error/Error";
 
 const route = createBrowserRouter([
   {
-    path: "/Framework-Page",
+    path: "/Framework-Page/",
     element: <Layout />,
     children: [
       { index: true, element: <Home /> },

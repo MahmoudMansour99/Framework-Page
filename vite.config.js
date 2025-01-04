@@ -4,10 +4,4 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default {
   base: "/Framework-Page/",
-  server: {
-    historyApiFallback: true,
-  },
-  build: {
-    outDir: "dist",
-  },
 };
