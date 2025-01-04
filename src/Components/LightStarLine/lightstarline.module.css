@@ -1,0 +1,24 @@
+.lineIcon {
+    position: relative;
+  }
+  
+  .lineIcon::before {
+    content: "";
+    width: 80px;
+    height: 3px;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    background-color: #fff;
+  }
+  
+  .lineIcon::after {
+    content: "";
+    width: 80px;
+    height: 3px;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    background-color: #fff;
+  }
+  

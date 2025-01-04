@@ -1,0 +1,12 @@
+.active {
+  background-color: #198754;
+}
+
+.navbar {
+  transition: all 0.3s ease-in-out;
+}
+
+.scrolled-navbar {
+  padding: 10px 0 !important;
+  transition: all 0.3s ease-in-out;
+}
