@@ -22,7 +22,7 @@ const route = createBrowserRouter(
     { path: "*", element: <Error /> },
   ],
   {
-    bcd
+    basename: "/Framework-Page/",
   }
 );
 
