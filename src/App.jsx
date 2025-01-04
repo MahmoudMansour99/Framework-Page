@@ -14,9 +14,9 @@ const route = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: "Framework-Page", element: <Home /> },
-      { path: "about", element: <About /> },
-      { path: "portfolio", element: <Portfolio /> },
-      { path: "contact", element: <Contact /> },
+      { path: "/Framework-Page/about", element: <About /> },
+      { path: "/Framework-Page/portfolio", element: <Portfolio /> },
+      { path: "/Framework-Page/contact", element: <Contact /> },
     ],
   },
   { path: "*", element: <Error /> },
