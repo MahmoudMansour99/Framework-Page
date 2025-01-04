@@ -27,10 +27,7 @@ export default function Navbar() {
       }`}
     >
       <div className="container">
-        <Link
-          className="navbar-brand text-white fs-2 fw-bold"
-          to="/Framework-Page/"
-        >
+        <Link className="navbar-brand text-white fs-2 fw-bold" to="/">
           START FRAMEWORK
         </Link>
         <button
