@@ -48,7 +48,7 @@ export default function Navbar() {
                 <NavLink
                   className="nav-link text-white rounded fs-6 fw-bold"
                   aria-current="page"
-                  to="/Framework-Page/about"
+                  to="/about"
                 >
                   ABOUT
                 </NavLink>
@@ -56,7 +56,7 @@ export default function Navbar() {
               <li className="nav-item ">
                 <NavLink
                   className="nav-link text-white rounded fs-6 fw-bold"
-                  to="/Framework-Page/portfolio"
+                  to="/portfolio"
                 >
                   PORTFOLIO
                 </NavLink>
@@ -64,7 +64,7 @@ export default function Navbar() {
               <li className="nav-item">
                 <NavLink
                   className="nav-link text-white rounded fs-6 fw-bold"
-                  to="/Framework-Page/contact"
+                  to="/contact"
                 >
                   CONTACT
                 </NavLink>
