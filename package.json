@@ -2,7 +2,7 @@
   "name": "app1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "/Framework-Page",
+  "homepage": "https://mahmoudmansour99.github.io/Framework-Page",
   "type": "module",
   "scripts": {
     "dev": "vite",
